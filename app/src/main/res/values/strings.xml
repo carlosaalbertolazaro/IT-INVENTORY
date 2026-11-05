@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">IT Inventory</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Crear cuenta</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="name">Nombre completo</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="equipos">Equipos de cómputo</string>
+    <string name="add_equipo">Agregar equipo</string>
+    <string name="edit_equipo">Editar equipo</string>
+    <string name="detalle">Detalle</string>
+    <string name="serie">Número de serie</string>
+    <string name="marca">Marca</string>
+    <string name="modelo">Modelo</string>
+    <string name="fecha_adquisicion">Fecha de adquisición</string>
+    <string name="estado">Estado</string>
+    <string name="numero_inventario">Número de inventario</string>
+    <string name="ubicacion">Ubicación</string>
+    <string name="disponible">Disponible</string>
+    <string name="en_uso">En uso</string>
+    <string name="mantenimiento">Mantenimiento</string>
+    <string name="baja">Baja</string>
+    <string name="guardar">Guardar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="confirmar_eliminar">¿Estás seguro de eliminar este equipo?</string>
+    <string name="error_red">Error de red. Verifica tu conexión.</string>
+    <string name="error_credenciales">Credenciales inválidas.</string>
+    <string name="sin_equipos">No hay equipos registrados</string>
+    <string name="cargando">Cargando...</string>
+</resources>
