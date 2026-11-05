@@ -8,6 +8,6 @@ class MainActivity : ComponentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        // Aquí irá tu navegación: setContent { AppNavigation() }
+        // Aquí irá: setContent { AppNavigation() }
     }
 }

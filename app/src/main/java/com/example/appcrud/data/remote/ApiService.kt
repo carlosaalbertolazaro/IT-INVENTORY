@@ -11,10 +11,4 @@ import retrofit2.http.Path
 
 /**
  * ApiService: interfaz de Retrofit con los endpoints de tu API.
- * Ejemplo de endpoints:
- *   GET    /equipos
- *   GET    /equipos/{id}
- *   POST   /equipos
- *   PATCH  /equipos/{id}
- *   DELETE /equipos/{id}
  */

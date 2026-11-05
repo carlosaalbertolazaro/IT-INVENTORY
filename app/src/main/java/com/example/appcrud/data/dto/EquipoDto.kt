@@ -1,9 +1,5 @@
 package com.example.appcrud.data.dto
 
-/**
- * EquipoDto: Data Transfer Object. Es la representación que entiende la API (JSON).
- * Debe coincidir con los campos que envía/recibe el backend.
- */
 data class EquipoDto(
     val id: String? = null,
     val numeroSerie: String? = null,

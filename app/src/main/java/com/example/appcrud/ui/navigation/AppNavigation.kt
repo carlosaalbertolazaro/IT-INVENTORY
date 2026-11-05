@@ -7,5 +7,4 @@ import androidx.navigation.compose.rememberNavController
 
 /**
  * AppNavigation: configuración de Navigation Compose.
- * Define las rutas: login, register, home, detalle, formulario.
  */

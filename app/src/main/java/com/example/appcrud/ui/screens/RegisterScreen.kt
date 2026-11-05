@@ -4,5 +4,5 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 
 /**
- * RegisterScreen: pantalla de registro (nombre, correo, contraseña, confirmación).
+ * RegisterScreen: pantalla de registro.
  */

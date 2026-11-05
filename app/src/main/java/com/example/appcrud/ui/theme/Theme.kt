@@ -5,5 +5,4 @@ import androidx.compose.runtime.Composable
 
 /**
  * Theme.kt: define tu tema de Material 3.
- * En el examen pueden revisar que uses Material 3 y Compose.
  */

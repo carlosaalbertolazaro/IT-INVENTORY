@@ -4,5 +4,5 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 
 /**
- * HomeScreen: pantalla principal con LazyColumn (listar equipos) y CRUD.
+ * HomeScreen: pantalla principal con LazyColumn (listar equipos).
  */

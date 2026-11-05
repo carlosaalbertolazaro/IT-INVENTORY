@@ -5,5 +5,4 @@ import androidx.lifecycle.ViewModelProvider
 
 /**
  * AppViewModelFactory: Factory para crear ViewModels con dependencias inyectadas manualmente.
- * Implementa ViewModelProvider.Factory.
  */

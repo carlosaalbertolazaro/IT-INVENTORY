@@ -4,10 +4,6 @@ import com.example.appcrud.domain.model.Equipo
 import com.example.appcrud.domain.repository.EquipoRepository
 import kotlin.Result
 
-/**
- * EquipoRepositoryImpl: implementación real del repositorio.
- * Llama a ApiService (remote) y usa el Mapper para convertir DTO <-> Domain.
- */
 class EquipoRepositoryImpl private constructor() : EquipoRepository {
 
     override suspend fun listarEquipos(): Result<List<Equipo>> = Result.success(emptyList())
