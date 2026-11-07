@@ -1,0 +1,8 @@
+com.example.appcrud.app-pngs-0 C:\Users\Gigan\StudioProjects\IT-INVENTORY\app\build\generated\res\pngs\debug
+com.example.appcrud.app-updated_navigation_xml-1 C:\Users\Gigan\StudioProjects\IT-INVENTORY\app\build\generated\updated_navigation_xml\debug
+com.example.appcrud.app-packageDebugResources-2 C:\Users\Gigan\StudioProjects\IT-INVENTORY\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.appcrud.app-packageDebugResources-3 C:\Users\Gigan\StudioProjects\IT-INVENTORY\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.appcrud.app-debug-4 C:\Users\Gigan\StudioProjects\IT-INVENTORY\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.appcrud.app-debug-5 C:\Users\Gigan\StudioProjects\IT-INVENTORY\app\src\debug\res
+com.example.appcrud.app-main-6 C:\Users\Gigan\StudioProjects\IT-INVENTORY\app\src\main\res
+gradleHome-0 C:\Users\Gigan\.gradle

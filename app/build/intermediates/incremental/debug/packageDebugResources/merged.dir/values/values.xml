@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#03DAC5</color>
+    <color name="background">#F5F5F5</color>
+    <color name="error">#B00020</color>
+    <color name="on_background">#000000</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary">#6200EE</color>
+    <color name="primary_dark">#3700B3</color>
+    <color name="surface">#FFFFFF</color>
+    <string name="add_equipo">Agregar equipo</string>
+    <string name="app_name">IT Inventory</string>
+    <string name="baja">Baja</string>
+    <string name="cargando">Cargando...</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="confirmar_eliminar">¿Estás seguro de eliminar este equipo?</string>
+    <string name="detalle">Detalle</string>
+    <string name="disponible">Disponible</string>
+    <string name="edit_equipo">Editar equipo</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="email">Correo electrónico</string>
+    <string name="en_uso">En uso</string>
+    <string name="equipos">Equipos de cómputo</string>
+    <string name="error_credenciales">Credenciales inválidas.</string>
+    <string name="error_red">Error de red. Verifica tu conexión.</string>
+    <string name="estado">Estado</string>
+    <string name="fecha_adquisicion">Fecha de adquisición</string>
+    <string name="guardar">Guardar</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="mantenimiento">Mantenimiento</string>
+    <string name="marca">Marca</string>
+    <string name="modelo">Modelo</string>
+    <string name="name">Nombre completo</string>
+    <string name="numero_inventario">Número de inventario</string>
+    <string name="password">Contraseña</string>
+    <string name="register">Crear cuenta</string>
+    <string name="serie">Número de serie</string>
+    <string name="sin_equipos">No hay equipos registrados</string>
+    <string name="ubicacion">Ubicación</string>
+    <style name="Theme.AppCrud" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorPrimaryDark">#3700B3</item>
+        <item name="colorAccent">#03DAC5</item>
+    </style>
+</resources>

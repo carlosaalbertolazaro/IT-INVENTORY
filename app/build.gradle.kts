@@ -52,4 +52,5 @@ dependencies {
     implementation(libs.retrofit.converter.gson)
     implementation(libs.androidx.compose.material.icons.extended)
     implementation(libs.androidx.compose.ui.tooling.preview)
+    implementation(libs.androidx.navigation.compose)
 }
