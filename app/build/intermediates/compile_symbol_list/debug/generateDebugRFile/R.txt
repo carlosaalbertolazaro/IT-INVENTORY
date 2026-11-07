@@ -6,6 +6,8 @@ int color on_primary 0x0
 int color primary 0x0
 int color primary_dark 0x0
 int color surface 0x0
+int mipmap ic_launcher 0x0
+int mipmap ic_launcher_round 0x0
 int string add_equipo 0x0
 int string app_name 0x0
 int string baja 0x0

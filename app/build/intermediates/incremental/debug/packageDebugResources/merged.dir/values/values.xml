@@ -39,8 +39,6 @@
     <string name="sin_equipos">No hay equipos registrados</string>
     <string name="ubicacion">Ubicación</string>
     <style name="Theme.AppCrud" parent="android:Theme.Material.Light.NoActionBar">
-        <item name="colorPrimary">#6200EE</item>
-        <item name="colorPrimaryDark">#3700B3</item>
-        <item name="colorAccent">#03DAC5</item>
+
     </style>
 </resources>

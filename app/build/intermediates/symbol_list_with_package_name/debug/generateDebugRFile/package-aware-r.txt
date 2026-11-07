@@ -7,6 +7,8 @@ color on_primary
 color primary
 color primary_dark
 color surface
+mipmap ic_launcher
+mipmap ic_launcher_round
 string add_equipo
 string app_name
 string baja
